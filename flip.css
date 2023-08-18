@@ -1,0 +1,16 @@
+button{
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    width: 100px;
+    height: 30px;
+    border-radius: 16px;
+    border: none;
+}
+p{
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    font-size: 22px;
+    font-weight: bold;
+}
